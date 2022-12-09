@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(38, 37, 37);
+}
+h1{
+    border: 2px solid rgb(13, 230, 13);
+    color:rgb(13, 230, 13);
+    padding: 10px;
+    align-self: center;
+    text-align: center;
+    font-size: 50px;
+}
+a{
+    margin: 30px;
+    font-size: 300%;
+    border: 20px solid beige;
+    color:blanchedalmond;
+}
