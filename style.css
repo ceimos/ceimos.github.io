@@ -1,16 +1,25 @@
 body{
     background-color:rgb(38, 37, 37);
 }
-h1{
-    border: 2px solid rgb(13, 230, 13);
+#ceimos{
     color:rgb(13, 230, 13);
-    padding: 10px;
-    align-self: center;
-    text-align: center;
-    font-size: 50px;
+    font-size:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    margin-left:50px;
+    margin-top: 20px;
+    margin-bottom:0px;
+}
+#ceimos_caps{
+    color:rgb(13, 230, 13);
+    font-size:90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:50px;
+    margin-top: 0px;
+    margin-bottom: 25px;
 }
 a{
-    margin: 30px;
+    margin: 50px;
     font-size: 300%;
     border: 20px solid beige;
     color:blanchedalmond;
