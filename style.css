@@ -6,9 +6,8 @@ body{
     font-size:50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 50px;
-    margin-left:50px;
     margin-top: 20px;
-    margin-bottom:0px;
+    margin-bottom:-10px;
 }
 #ceimos_caps{
     color:rgb(13, 230, 13);
